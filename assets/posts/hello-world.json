@@ -1,0 +1,8 @@
+{
+  "postTitle": "Hello World",
+  "timestamp": "1568949030",
+  "editedTimestamp": "1595063771",
+  "postContent": "<p>A long time ago I wrote the very same words I wrote on this title. My very first time coding, with C++ at the time, and to this day I still use these words to test software I create on my own.</p><p>So, Hello World. Welcome to my humble blog, using the ngx-Dumblog platform, created by myself, with love. The days I spent creating this will never be forgotten, as I had crazy days at my \"real\" job and relaxing nights coding this blog platform for Github Pages.</p><p>If you lurk around my repos you can see the previous version of this platform in C#, an abomination I never want to touch again, and because of that alone my motivation to continue the blog disappeared. But now it's back and I hope I can post here things I see on my daily adventures.</p><p>Cheers!</p>",
+  "filename": "hello-world",
+  "draft": false
+}
